@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: ANAND
+Build-Jdk: 15.0.2
+Class-Path: lib/mysql-connector-java-8.0.29.jar lib/protobuf-java-3.19.4
+ .jar
+Main-Class: com.emp.MainPackage.EmployeeMain
+Created-By: Maven Integration for Eclipse
+
