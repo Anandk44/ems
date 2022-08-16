@@ -16,5 +16,5 @@
    ###Features 
     1.Easy to store and retrive information about employees
     2.No duplicity in employee details.
-    3.Maintainance and Management becones easy
+    3.Maintainance and Management can be easily done
     
