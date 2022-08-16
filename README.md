@@ -7,7 +7,9 @@
   which makes the application loosely coupled . It maintains the information of the employee in an organization.
    
    
-   ### Technologies used
+   ### Technologies 
+   
+   
    1.Core java
    2.MySql
    3.JDBC
